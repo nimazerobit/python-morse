@@ -16,12 +16,15 @@ A simple Python project that converts input text to Morse code and plays it as a
 ## Installation
 
 1. **Clone the repository:**
-
 ```
-   git clone https://github.com/nimazerobit/python-morse.git
-   cd python-morse
+git clone https://github.com/nimazerobit/python-morse.git
+cd python-morse
 ```
-2. **Run script:**
+2. **Install packages:**
 ```
-   python main.py
+pip install -r requirements.txt
+```
+3. **Run script:**
+```
+python main.py
 ```
